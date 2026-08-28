@@ -1,4 +1,4 @@
-[FurnitureHogs](./assets/images/hero-billboard-0001.jpg)
+![FurnitureHogs](./assets/images/hero-billboard-0001.jpg)
 # Furniture Hogs
 ### IAS Build 023
 
